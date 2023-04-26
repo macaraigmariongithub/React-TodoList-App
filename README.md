@@ -1,3 +1,9 @@
+1). npx create-react-app .   
+2). npm start
+3). npm i uuid --save
+4). npm i react-router-dom --save
+5). npm i axios --save
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
